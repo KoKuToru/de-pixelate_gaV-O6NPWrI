@@ -3,6 +3,8 @@
 is in [`example/mosaic-nearest.ipynb`](example/mosaic-nearest.ipynb)
 but best viewed at [`mosaic-nearest.ipynb via nbviewer`](https://nbviewer.org/github/KoKuToru/de-pixelate_gaV-O6NPWrI/blob/master/example/mosaic-nearest.ipynb)
 
+there are more examples in the folder, if you are curious!
+
 # de-pixelate youtube video gaV-O6NPWrI "Who pays $450 for 2TB?"
 
 first of, huge thanks to jeff for this challenge.\
@@ -27,6 +29,7 @@ The following files are dedicated to the public domain using the Creative Common
 *   [`v2/extract_frames.sh`](v2/extract_frames.sh)
 *   [`example/mosaic-nearest.ipynb`](example/mosaic-nearest.ipynb)
 *   [`example/mosaic-area.ipynb`](example/mosaic-area.ipynb)
+*   [`example/filtered-area.ipynb`](example/filtered-area.ipynb)
 
 You can find the full text of the CC0 license online at: <https://creativecommons.org/publicdomain/zero/1.0/>
 
