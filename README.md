@@ -1,7 +1,7 @@
 # Small de-pixelation Example
 
-is in [`example/main.ipynb`](example/main.ipynb)
-but best viewed at [`main.ipynb via nbviewer`](https://nbviewer.org/github/KoKuToru/de-pixelate_gaV-O6NPWrI/blob/master/example/main.ipynb)
+is in [`example/mosaic-nearest.ipynb`](example/mosaic-nearest.ipynb)
+but best viewed at [`mosaic-nearest.ipynb via nbviewer`](https://nbviewer.org/github/KoKuToru/de-pixelate_gaV-O6NPWrI/blob/master/example/mosaic-nearest.ipynb)
 
 # de-pixelate youtube video gaV-O6NPWrI "Who pays $450 for 2TB?"
 
@@ -25,7 +25,8 @@ The following files are dedicated to the public domain using the Creative Common
 *   [`v1/extract_frames.sh`](v1/extract_frames.sh)
 *   [`v2/demosaic.py`](v2/demosaic.py)
 *   [`v2/extract_frames.sh`](v2/extract_frames.sh)
-*   [`example/main.ipynb`](example/main.ipynb)
+*   [`example/mosaic-nearest.ipynb`](example/mosaic-nearest.ipynb)
+*   [`example/mosaic-area.ipynb`](example/mosaic-area.ipynb)
 
 You can find the full text of the CC0 license online at: <https://creativecommons.org/publicdomain/zero/1.0/>
 
