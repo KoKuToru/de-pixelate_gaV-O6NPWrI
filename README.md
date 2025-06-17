@@ -5,20 +5,7 @@ but best viewed at [`mosaic-nearest.ipynb via nbviewer`](https://nbviewer.org/gi
 
 there are more examples in the folder, if you are curious!
 
-# de-pixelate youtube video gaV-O6NPWrI "Who pays $450 for 2TB?"
-
-first of, huge thanks to jeff for this challenge.\
-**i was always under the impression that this should work,\
-but never had the opportunity to do it.**
-
-![input video](v1/frames/0010.png)\
-[input video](gaV-O6NPWrI.webm)\
-[full video](https://www.youtube.com/watch?v=gaV-O6NPWrI)
-
-saw the video, looked doable.. did it.\
-around 4 hour of coding, __quality of code "proof of concept"__.
-
-## License
+# License
 
 The following files are dedicated to the public domain using the Creative Commons CC0 1.0 Universal Public Domain Dedication:
 
@@ -34,6 +21,19 @@ The following files are dedicated to the public domain using the Creative Common
 You can find the full text of the CC0 license online at: <https://creativecommons.org/publicdomain/zero/1.0/>
 
 All other files in this repository are under a different, unspecified license. Copyright and related rights are retained by the original authors unless otherwise stated.
+
+# de-pixelate youtube video gaV-O6NPWrI "Who pays $450 for 2TB?"
+
+first of, huge thanks to jeff for this challenge.\
+**i was always under the impression that this should work,\
+but never had the opportunity to do it.**
+
+![input video](v1/frames/0010.png)\
+[input video](gaV-O6NPWrI.webm)\
+[full video](https://www.youtube.com/watch?v=gaV-O6NPWrI)
+
+saw the video, looked doable.. did it.\
+around 4 hour of coding, __quality of code "proof of concept"__.
 
 ## Explanation
 
