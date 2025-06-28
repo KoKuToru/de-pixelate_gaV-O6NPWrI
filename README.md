@@ -1,7 +1,6 @@
 # Small de-pixelation Example
 
-is in [`example/mosaic-nearest.ipynb`](example/mosaic-nearest.ipynb)
-but best viewed at [`mosaic-nearest.ipynb via nbviewer`](https://nbviewer.org/github/KoKuToru/de-pixelate_gaV-O6NPWrI/blob/master/example/mosaic-nearest.ipynb)
+is in [`example/mosaic-nearest.ipynb`](example/mosaic-nearest.ipynb).
 
 there are more examples in the folder, if you are curious!
 
