@@ -9,13 +9,9 @@ there are more examples in the folder, if you are curious!
 The following files are dedicated to the public domain using the Creative Commons CC0 1.0 Universal Public Domain Dedication:
 
 *   [`README.md`](README.md)
-*   [`v1/demosaic.py`](v1/demosaic.py)
-*   [`v1/extract_frames.sh`](v1/extract_frames.sh)
-*   [`v2/demosaic.py`](v2/demosaic.py)
-*   [`v2/extract_frames.sh`](v2/extract_frames.sh)
-*   [`example/mosaic-nearest.ipynb`](example/mosaic-nearest.ipynb)
-*   [`example/mosaic-area.ipynb`](example/mosaic-area.ipynb)
-*   [`example/filtered-area.ipynb`](example/filtered-area.ipynb)
+*   [`v1/*.{py,sh}`](v1)
+*   [`v2/*.{py,sh}`](v2)
+*   [`example/*.ipynb`](example)
 
 You can find the full text of the CC0 license online at: <https://creativecommons.org/publicdomain/zero/1.0/>
 
